@@ -67,9 +67,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fatma20010/fatma20010/output/snake.svg" alt="Snake animation" />
-
-###
