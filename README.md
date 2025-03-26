@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/fatmahammedi" target="_blank">
+  <a href="https://linkedin.com/in/fatmahammedi">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:fatmahammedi51@gmail.com">
